@@ -1,34 +1,34 @@
-### Selam, ben Umut
+### Hi, I'm Umut 👋
 
-**Doğuş Üniversitesi** **Robotik ve Yapay Zeka** 2. sınıf öğrencisiyim. Yazılım geliştirme odaklı ilerlerken **bilgisayarlı görü (computer vision)**, **derin öğrenme**, **doğal dil işleme (NLP)** ve **gömülü sistemler** alanlarında uçtan uca projeler geliştiriyorum.
-
----
-
-### 🛠️ Teknoloji ve Araç Setim
-
-* **Programlama Dilleri:** Python, C++, Java
-* **Yapay Zeka & Veri Bilimi:** TensorFlow, Keras, OpenCV, Scikit-learn, Pandas, NumPy
-* **Gömülü Sistemler & Donanım:** Arduino (Uno / Nano), Motor Sürücüler (L298N), Sensör Entegrasyonu
-* **Tasarım & Geliştirme Ortamları:** SOLIDWORKS 2024, VS Code, Google Colab, Kaggle, Roboflow, Git
+I am a second-year **Robotics and Artificial Intelligence** student at **Doğuş University**. Focusing on software development, I build end-to-end projects across **computer vision**, **deep learning**, **natural language processing (NLP)**, and **embedded systems**.
 
 ---
 
-### 🚧 Aktif Olarak Çalıştığım Projeler
+### 🛠️ Tech Stack & Tools
 
-* **🦾 Bilgisayarlı Görü Destekli 3 Eksenli Robot Kol:** OpenCV ile gerçek zamanlı renk tespiti yapıp, nesneleri sınıflandırıp ayırabilen Arduino Nano tabanlı otonom robot kol sistemi.
-
----
-
-### 🚀 Öne Çıkan Projelerim
-
-* **🤟 ASL Alphabet Recognition (ResNet50):** Amerikan İşaret Dili alfabesindeki 29 sınıfı Transfer Learning ile sınıflandıran ve **%97.39** doğrulama başarımına ulaşan derin öğrenme modeli.
-* **💬 Müşteri Yorumları Duygu Analizi (NLP):** Amazon müşteri yorumları üzerinde TF-IDF ve klasik makine öğrenmesi modelleriyle (LinearSVC, Logistic Regression) duygu analizi gerçekleştiren metin madenciliği projesi.
-* **🏎️ 5 Sensörlü Çizgi İzleyen Robot:** Arduino Uno R3 ve L298N motor sürücü kullanılarak C++ ile programlanmış otonom çizgi takip sistemi.
+* **Programming Languages:** Python, C++, Java
+* **AI & Data Science:** TensorFlow, Keras, OpenCV, Scikit-learn, Pandas, NumPy
+* **Embedded Systems & Hardware:** Arduino (Uno / Nano), Motor Drivers (L298N), Sensor Integration
+* **CAD & Development Environments:** SOLIDWORKS 2024, VS Code, Google Colab, Kaggle, Roboflow, Git
 
 ---
 
-### 📫 İletişim
+### 🚧 Currently Working On
+
+* **🦾 Vision-Guided 3-Axis Robotic Arm:** An autonomous Arduino Nano-based robotic arm system capable of real-time color detection via OpenCV to classify and sort objects.
+
+---
+
+### 🚀 Featured Projects
+
+* **🤟 ASL Alphabet Recognition (ResNet50):** A deep learning model classifying 29 classes of the American Sign Language alphabet using Transfer Learning, achieving **97.39%** validation accuracy.
+* **💬 Customer Review Sentiment Analysis (NLP):** A text mining project performing sentiment analysis on Amazon customer reviews using TF-IDF and classical machine learning models (LinearSVC, Logistic Regression).
+* **🏎️ 5-Sensor Line-Following Robot:** An autonomous line-tracking system programmed in C++ using an Arduino Uno R3 and an L298N motor driver.
+
+---
+
+### 📫 Contact
 
 * **GitHub:** [github.com/umutkoroglu5](https://github.com/umutkoroglu5)
-* **E-posta** *umutkoro1903@gmail.com*
-* **LinkedIn:** *https://www.linkedin.com/in/umut-k%C3%B6ro%C4%9Flu-23063b236/*
+* **Email:** umutkoro1903@gmail.com
+* **LinkedIn:** [linkedin.com/in/umut-köroğlu-23063b236](https://www.linkedin.com/in/umut-k%C3%B6ro%C4%9Flu-23063b236/)
