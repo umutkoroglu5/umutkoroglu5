@@ -1,16 +1,28 @@
-## Hi there 👋
+### Merhaba, ben Umut Köroğlu 👋
 
-<!--
-**umutkoroglu5/umutkoroglu5** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Doğuş Üniversitesi** **Robotik ve Yapay Zeka** 2. sınıf öğrencisiyim. Yazılım geliştirme odaklı ilerlerken **bilgisayarlı görü (computer vision)**, **derin öğrenme**, **doğal dil işleme (NLP)** ve **gömülü sistemler** alanlarında uçtan uca projeler geliştiriyorum.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Teknoloji ve Araç Setim
+
+* **Programlama Dilleri:** Python, C++, Java
+* **Yapay Zeka & Veri Bilimi:** TensorFlow, Keras, OpenCV, Scikit-learn, Pandas, NumPy
+* **Gömülü Sistemler & Donanım:** Arduino (Uno / Nano), Motor Sürücüler (L298N), Sensör Entegrasyonu
+* **Tasarım & Geliştirme Ortamları:** SOLIDWORKS 2024, VS Code, Google Colab, Kaggle, Roboflow, Git
+
+---
+
+### 🚀 Öne Çıkan Projelerim
+
+* **🤟 ASL Alphabet Recognition (ResNet50):** Amerikan İşaret Dili alfabesindeki 29 sınıfı (87.000 görüntü) Transfer Learning ile sınıflandıran ve **%97.39** doğrulama başarımına ulaşan derin öğrenme modeli.
+* **🦾 Bilgisayarlı Görü Destekli 3 Eksenli Robot Kol *(Geliştirme Aşamasında)*:** OpenCV ile gerçek zamanlı renk tespiti yapan ve Arduino Nano tabanlı servo kontrolüyle nesneleri ayıran otonom robot kol sistemi.
+* **💬 Müşteri Yorumları Duygu Analizi (NLP):** Amazon müşteri yorumları üzerinde TF-IDF ve klasik makine öğrenmesi modelleriyle (LinearSVC, Logistic Regression) duygu analizi gerçekleştiren metin madenciliği projesi.
+* **🏎️ 5 Sensörlü Çizgi İzleyen Robot:** Arduino Uno R3 ve L298N motor sürücü kullanılarak C++ ile programlanmış otonom çizgi takip sistemi.
+
+---
+
+### 📫 İletişim
+
+* **GitHub:** [github.com/umutkoroglu5](https://github.com/umutkoroglu5)
+* **E-posta / LinkedIn:** *(İstersen buraya kendi adreslerini ekleyebilirsin)*
