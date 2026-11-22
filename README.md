@@ -8,7 +8,7 @@ I am a second-year **Robotics and Artificial Intelligence** student at **Doğuş
 
 * **Programming Languages:** Python, C++, Java
 * **AI & Data Science:** TensorFlow, Keras, OpenCV, Scikit-learn, Pandas, NumPy
-* **Embedded Systems & Hardware:** Arduino (Uno / Nano), Motor Drivers (L298N), Sensor Integration
+* **Embedded Systems & Hardware:** Arduino (Uno / Nano), Sensor Integration
 * **CAD & Development Environments:** SOLIDWORKS 2024, VS Code, Google Colab, Kaggle, Roboflow, Git
 
 ---
@@ -29,6 +29,6 @@ I am a second-year **Robotics and Artificial Intelligence** student at **Doğuş
 
 ### 📫 Contact
 
-* **GitHub:** [github.com/umutkoroglu5](https://github.com/umutkoroglu5)
 * **Email:** umutkoro1903@gmail.com
+* **GitHub:** [github.com/umutkoroglu5](https://github.com/umutkoroglu5)
 * **LinkedIn:** [linkedin.com/in/umut-köroğlu-23063b236](https://www.linkedin.com/in/umut-k%C3%B6ro%C4%9Flu-23063b236/)
