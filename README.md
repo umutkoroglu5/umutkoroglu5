@@ -15,7 +15,7 @@
 
 ### 🚧 Aktif Olarak Çalıştığım Projeler
 
-* **🦾 Bilgisayarlı Görü Destekli 3 Eksenli Robot Kol:** OpenCV ile gerçek zamanlı renk tespiti yapan ve Arduino Nano tabanlı, nesneleri sınıflandırıp ayıran otonom robot kol sistemi.
+* **🦾 Bilgisayarlı Görü Destekli 3 Eksenli Robot Kol:** OpenCV ile gerçek zamanlı renk tespiti yapıp, nesneleri sınıflandırıp ayırabilen Arduino Nano tabanlı otonom robot kol sistemi.
 
 ---
 
