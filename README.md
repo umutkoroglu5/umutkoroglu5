@@ -25,4 +25,4 @@
 ### 📫 İletişim
 
 * **GitHub:** [github.com/umutkoroglu5](https://github.com/umutkoroglu5)
-* **E-posta / LinkedIn:** *(İstersen buraya kendi adreslerini ekleyebilirsin)*
+* **E-posta / LinkedIn:** *umutkoro1903@gmail.com*, *https://www.linkedin.com/in/umut-k%C3%B6ro%C4%9Flu-23063b236/*
