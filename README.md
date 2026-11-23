@@ -1,4 +1,4 @@
-### Hi, This is Umut 👋
+### Hi there, this is Umut 👋
 
 I am a second-year **Robotics and Artificial Intelligence** student at **Doğuş University**. Focusing on software development, I build end-to-end projects across **computer vision**, **deep learning**, **natural language processing (NLP)**, and **embedded systems**.
 
